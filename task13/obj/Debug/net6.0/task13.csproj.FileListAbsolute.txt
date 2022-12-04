@@ -1,0 +1,15 @@
+D:\TASK_C#\task13\bin\Debug\net6.0\task13.exe
+D:\TASK_C#\task13\bin\Debug\net6.0\task13.deps.json
+D:\TASK_C#\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+D:\TASK_C#\task13\bin\Debug\net6.0\task13.dll
+D:\TASK_C#\task13\bin\Debug\net6.0\task13.pdb
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.dll
+D:\TASK_C#\task13\obj\Debug\net6.0\refint\task13.dll
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.pdb
+D:\TASK_C#\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+D:\TASK_C#\task13\obj\Debug\net6.0\ref\task13.dll
